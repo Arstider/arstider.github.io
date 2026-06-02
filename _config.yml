@@ -41,4 +41,24 @@ back_to_top: true # set to false to disable the back to top button
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-toc
+  - jekyll-scholar
+  - jekyll-paginate-v2
+  - jekyll-figure
+  - jekyll-responsive-image
+  - jekyll-image-size
+  - jekyll-postfiles
+  - jekyll-pig
+  - jekyll-sitemap
+  - jekyll-analytics
+  - jekyll-compose
+  - jekyll-import
+  - jekyll-spaceship
+  - jekyll-deploy
+  - jekyll-deploy-action
+  - jekyll-debug
+  - fastcomments-jekyll
+  - liquid_reading_time
+  - liquid_pluralize
+  - premonition
 
