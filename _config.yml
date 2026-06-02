@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Shishir's Blog
+title: Grad Student's Blog
 first_name: Shishir
 last_name: Acharya KC
 email: sacharya01@wesleyan.edu
@@ -30,8 +30,8 @@ description: >- # this means to ignore newlines until "baseurl:"
     I hope this will be of help to anyone looking to learn.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://arstider.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
+url: https://arstider.github.io # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: ""
 github_username:  arstider 
 
 last_updated: true # set to true if you want to display last updated in the footer
